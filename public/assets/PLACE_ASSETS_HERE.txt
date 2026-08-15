@@ -1,0 +1,10 @@
+PLACE THE FOLLOWING ASSETS IN THIS DIRECTORY:
+
+1. "kavin-profile.webp" (Profile image)
+2. "Kavin_Rajendran_Resume.pdf" (Resume download document)
+3. "srm-logo.webp" (SRM university logo badge)
+4. "renault-logo.webp" (Renault Nissan company logo badge)
+5. "murugappa-logo.webp" (Murugappa group logo badge)
+
+Ensure the names match exactly. If you use a different format (like .png or .jpg), make sure to update the paths in the file:
+src/data/portfolioData.ts

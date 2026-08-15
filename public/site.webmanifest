@@ -1,0 +1,14 @@
+{
+  "name": "Kavin Rajendran Portfolio",
+  "short_name": "Kavin Rajendran",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#0F9D8A",
+  "background_color": "#050816",
+  "display": "standalone"
+}
